@@ -1,5 +1,5 @@
 # FusionGAN
-This source code of our FusionGAN includes fusion code, GAN model and datasets.
+This source code of our FusionGAN includes the fusion code, GAN model and datasets.
 
 The codes are based on OpenCV, Pytorch, pix2pix, and cyclegan. Please also follow their licenses. Thanks for their awesome works.
 
